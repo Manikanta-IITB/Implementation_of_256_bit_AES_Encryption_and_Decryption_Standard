@@ -9,6 +9,7 @@ The encryption process involves the following algorithms for the generation of s
 3) Shift Rows
 4) Mix Columns
 5) Add Round Key
+   
 ![Untitled Diagram drawio](https://github.com/Manikanta-IITB/Implementation_of_256_bit_AES_Encryption_and_Decryption_Standard/assets/138108630/ff2f24da-3bb7-4d95-99ce-900a73407e41)
 ### Pre-Round Transformation
 This step is bitwise XOR of plaintext and key 0. Required keys (key2 to key14) are provided by the
